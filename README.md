@@ -1,3 +1,3 @@
-Repositorio para practicar git pull
+Repositorio para practicar git pull agregamos intellecta soft
 
 # ejemplo-git-pull
